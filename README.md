@@ -9,14 +9,14 @@ The dataset contains patient health-related information including:
 Target Variable: Presence of cardiovascular disease (binary classification)
 
 # Models Tested
-* ✅ K-Nearest Neighbors (KNN)
-* ✅ Naive Bayes
-* ✅ Logistic Regression
-* ✅ Decision Tree
-* ✅ Random Forest
-* ✅ Support Vector Machine (SVM)
-* ✅ XGBoost
-* ✅ Stacking (Meta Ensemble
+✅ K-Nearest Neighbors (KNN)
+✅ Naive Bayes
+✅ Logistic Regression
+✅ Decision Tree
+✅ Random Forest
+✅ Support Vector Machine (SVM)
+✅ XGBoost
+✅ Stacking (Meta Ensemble)
 
 # Conclusion
 * Ensembles Lead the Scoreboard: Combined learners—especially Random Forest and the Stacked meta-model—reliably eclipsed every stand-alone algorithm, delivering the highest marks in accuracy, precision, recall, F1, and ROC-AUC.
