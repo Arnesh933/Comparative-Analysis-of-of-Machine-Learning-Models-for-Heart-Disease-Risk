@@ -1,4 +1,4 @@
-# Comparative-Analysis-of-of-Machine-Learning-Models-for-Heart-Disease-Risk
+# Comparative-Analysis-of-Machine-Learning-Models-for-Heart-Disease-Risk
 This project delivers a comparative analysis of machine‑learning models for predicting cardiovascular disease from clinical and lifestyle variables. It benchmarks several classifiers, employs Mutual Feature Selection to select the most informative features, and contrasts each model’s predictive performance both before and after feature selection.
 # Dataset Analysis
 The dataset contains patient health-related information including:
